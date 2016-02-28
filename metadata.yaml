@@ -1,0 +1,32 @@
+_repo: Forest-and-Frontiers-Or-Adventures-Among-the-Indians_8411
+contributor:
+  contributor:
+    agent_name: Gordon-Cumming, Roualeyn
+    aliases:
+    - Cummimg, Roualeyn Gordon
+    - Cumming, Gordon
+    - Gordon-Cumming, R. (Roualeyn)
+    - Gordon-Cumming, Roualeyn George
+    birthdate: 1820
+    deathdate: 1866
+    gutenberg_agent_id: '34049'
+    url: http://www.gutenberg.org/2009/agents/34049
+    wikipedia: http://en.wikipedia.org/wiki/Roualeyn_George_Gordon-Cumming
+description: 'Contains extracts from: R.G. Gordon-Cumming. Five years of a hunter''s
+  life ... London, 1850. The rest of the book is made up of tales of the American
+  Indians, etc. by unknown author(s).'
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8411'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hunting'
+- !lcc 'PR'
+- !lcsh 'Indians of North America'
+title: Forest and Frontiers; Or, Adventures Among the Indians
+url: http://www.gutenberg.org/ebooks/8411
